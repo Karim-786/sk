@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(94, 211, 154);
+    margin:30 px auto;
+}
+.ammi {
+    box-sizing: border-box;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 3px solid black;
+    color: antiquewhite;
+    width: 60vw;
+    font-weight: bold;
+    height: auto;
+    margin: auto;
+    background-color: rgb(255, 127, 234);
+}
+.me{
+    box-sizing: border-box;
+    border: 1px solid black;
+    color: rgb(188, 234, 23);
+    font-weight: 600;
+    width: 80vw;
+    height: auto;
+    margin: auto;
+    background-color: rgb(72, 158, 239);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
